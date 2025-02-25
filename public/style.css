@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-size: 2em;
+  background-color: rgb(33, 33, 33);
+  color: aqua;
+}
+
+.main-div {
+  margin-top: 150px;
+}
+
+button {
+  font-size: 1.2em;
+  margin: 10px;
+  width: 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: darkslategray;
+  color: aqua;
+}
+
+button:hover {
+  background-color: rgb(39, 68, 68);
+  cursor: pointer;
+}
